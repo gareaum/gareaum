@@ -38,6 +38,7 @@ Worked with a 5-DOF robotic arm to develop autonomous manipulation capabilities.
 Designed and built a 6-DOF Arduino-based robotic arm to learn **robotic** concepts and test algorithms on.
 
 ### ⚖️ Inverted Pendulum Control System
+[Inverted Pendulum](https://github.com/gareaum/Inverted-Pendulum)  
 Developed an **inverted pendulum platform** for testing and evaluating control algorithms for Boise State's robotic laboratory.
 
 ## 📫 Let's connect!
