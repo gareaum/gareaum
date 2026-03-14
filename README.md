@@ -21,9 +21,10 @@ I am a robotics graduate student with a background in mechanical design and cont
 
 ### Engineering Tools
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-red)
-![CAD](https://img.shields.io/badge/CAD-blue)
+![Onshape](https://img.shields.io/badge/Onshape-blue)
 ![3D Printing](https://img.shields.io/badge/3D%20Printing-purple)
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Simulink](https://img.shields.io/badge/Simulink?logo=linux)
 
 ---
 
