@@ -30,6 +30,7 @@ I am a robotics graduate student with a background in mechanical design and cont
 ## 🤖 Projects
 
 ### 🦾 ROB550 ArmLab
+[ArmLab: Autonomous 5-DOF Robotic Arm](https://github.com/gareaum/ROB550-ArmLab)  
 Worked with a 5-DOF robotic arm to develop autonomous manipulation capabilities. The project focused on integrating computer vision, kinematics, and path planning to enable the robot to detect and manipulate objects. 
 
 ### 🔧 3D Printed Robotic Arm
