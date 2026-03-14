@@ -34,7 +34,7 @@ I am a robotics graduate student with a background in mechanical design and cont
 Worked with a 5-DOF robotic arm to develop autonomous manipulation capabilities. The project focused on integrating computer vision, kinematics, and path planning to enable the robot to detect and manipulate objects. 
 
 ### 🔧 3D Printed Robotic Arm
-[3D Printed Robotic Arm](https://github.com/gareaum/3d-Printed-Robotic-Arm) 
+[3D Printed Robotic Arm](https://github.com/gareaum/3d-Printed-Robotic-Arm)
 Designed and built a 6-DOF Arduino-based robotic arm to test algorithms on.
 
 ### ⚖️ Inverted Pendulum Control System
