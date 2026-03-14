@@ -35,7 +35,7 @@ Worked with a 5-DOF robotic arm to develop autonomous manipulation capabilities.
 
 ### 🔧 3D Printed Robotic Arm
 [3D Printed Robotic Arm](https://github.com/gareaum/3d-Printed-Robotic-Arm)  
-Designed and built a 6-DOF Arduino-based robotic arm to test algorithms on.
+Designed and built a 6-DOF Arduino-based robotic arm to learn **robotic** concepts and test algorithms on.
 
 ### ⚖️ Inverted Pendulum Control System
 Developed an **inverted pendulum platform** for testing and evaluating control algorithms for Boise State's robotic laboratory.
