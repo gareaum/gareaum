@@ -33,7 +33,7 @@ I am a robotics graduate student with a background in mechanical design and cont
 [ArmLab: Autonomous 5-DOF Robotic Arm](https://github.com/gareaum/ROB550-ArmLab)  
 Worked with a 5-DOF robotic arm to develop autonomous manipulation capabilities. The project focused on integrating computer vision, kinematics, and path planning to enable the robot to detect and manipulate objects. 
 
-### 🚗 MBot Classic: Autonomous Navigation & SLAM
+### 🧭 MBot Classic: Autonomous Navigation & SLAM
 [MBot Classic Project](https://github.com/gareaum/ROB550-MBot)  
 Developed a fully autonomous mobile robot using the University of Michigan ROS2 MBot Classic. The system integrates PID velocity control, SLAM-based mapping, A* path planning, and a custom forklift mechanism for AprilTag-based crate manipulation in structured environments.
 
